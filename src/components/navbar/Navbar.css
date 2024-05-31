@@ -1,0 +1,39 @@
+/* .navbar {
+   display: flex;
+}
+
+.menu {
+    display: none;
+}
+
+@media screen and (max-width: 992px) {
+    .navbar {
+        display: none;
+    }
+
+    .menu {
+        display: block;
+    }
+
+    .ordered {
+        margin-inline: 10rem;
+    }
+
+    
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    .navbar {
+        display: none;
+    }
+
+    .menu {
+        display: block;
+    }
+
+    .ordered {
+        margin-inline: -1rem;
+    }
+} */

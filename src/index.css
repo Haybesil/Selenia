@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .lists {
+        @apply text-[16px] font-[400] text-white hover:text-[#00FFA3];
+    };
+
+    .white {
+        @apply text-white hover:cursor-pointer;
+    };
+
+    .modal {
+        @apply text-[20px] font-[500] text-primary-Selenia hover:text-primary-Selenia10 hover:border-b-2 border-white;
+    }
+}
